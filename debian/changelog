@@ -1,0 +1,5 @@
+evdev (0.7.0-1) artful; urgency=low
+
+  * source package automatically created by stdeb 0.8.5
+
+ -- Steve Kondik <shade@chemlab.org>  Mon, 31 Jul 2017 01:50:35 -0700
